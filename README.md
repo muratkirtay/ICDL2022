@@ -11,6 +11,7 @@ A repository for reproducing the results presented in ICDL 2022 submission.
 + **Figures:** this folder contains the figures in the paper and addtional figures for the data collected during the experiments.
 + **Scipts:** python scripts to generate the tables and figures can be found in the previous publication [ROMAN2022](https://github.com/muratkirtay/RoMAN2021) and [ADAPTIVE2019](https://github.com/muratkirtay/ADAPTIVE2019) repos were used.
 + **Experiment videos:** this folder contains the experiment videos. Due to their size, it can not uploaded to Github, yet you can access with this link: [https://box.hu-berlin.de/d/d18573e6c3e94b5a9b54/](https://box.hu-berlin.de/d/d18573e6c3e94b5a9b54/)
++ [Authors' copy of reference 4.](https://box.hu-berlin.de/f/e8200ff0cb7149dba7f7/) 
  
  
 
